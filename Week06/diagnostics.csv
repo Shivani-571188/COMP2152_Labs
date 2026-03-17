@@ -1,0 +1,8 @@
+2026-03-17 17:56:56,ping,github.com,32,Success
+2026-03-17 17:58:57,nslookup,google.com,Not found,Failed
+2026-03-17 17:59:10,ipconfig,all,2A-D0-43-89-17-23 / 10.0.0.228,Captured
+2026-03-17 17:59:27,arp,local,7 devices,Captured
+2026-03-17 18:02:02,ping,github.com,60,Success
+2026-03-17 18:02:10,nslookup,google.com,Not found,Failed
+2026-03-17 18:02:12,ipconfig,all,2A-D0-43-89-17-23 / 10.0.0.228,Captured
+2026-03-17 18:02:15,arp,local,7 devices,Captured
