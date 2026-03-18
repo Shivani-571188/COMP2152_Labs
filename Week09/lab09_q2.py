@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 09 LAB — Q2: SEQUENTIAL vs THREADED EXECUTION
-#  COMP2152 — [Your Name Here]
+#  COMP2152 — [Shivani]
 # ============================================================
 
 import time
